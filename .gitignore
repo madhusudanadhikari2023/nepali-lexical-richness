@@ -1,0 +1,9 @@
+# Corpus files: Gorkhapatra articles, not to be republished
+corpus/*
+!corpus/PUT_CORPUS_FILES_HERE.txt
+
+# Files the scripts write
+output/
+
+node_modules/
+.DS_Store
