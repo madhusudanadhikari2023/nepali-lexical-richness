@@ -1,0 +1,1 @@
+Put muna_corpus.txt and yuba_manch_corpus.txt here.
